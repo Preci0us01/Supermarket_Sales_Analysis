@@ -21,6 +21,9 @@ profitability, and product-level demand.
 
 [KPI](https://github.com/user-attachments/assets/ac5fd831-170a-4f2d-80ce-3d13efc23f3c)
 
+[map](https://github.com/user-attachments/assets/04067877-2796-4b46-854c-73d53c4ca766)
+
+
 
 
 
