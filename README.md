@@ -17,6 +17,9 @@ The **Supermarket Sales Analysis** project is a comprehensive data analytics sol
 track, and visualise retail performance metrics across multiple operational dimensions. This project empowers stakeholders with actionable intelligence regarding revenue generation, customer ordering behaviours, regionanal
 profitability, and product-level demand.
 
+[Dashboard](https://github.com/user-attachments/assets/4dc08bf3-5368-4f83-b44d-c0d40a27bd08)
+
+
 
 
 ### Data Sources
